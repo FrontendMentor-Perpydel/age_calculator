@@ -1,0 +1,18 @@
+$primary-color: #854dff;
+$secondary-color: #ff5757;
+$light-color: #ffffff;
+$subtle-color: #f0f0f0;
+$light-grey: #dbdbdb;
+$smokey-grey: #716f6f;
+$dark-color: #141414;
+
+$font-stack: Poppins, sans-serif;
+$font-size-regular: 16px;
+$font-size-large: 32px;
+$font-weight-regular: 400;
+$font-weight-medium: 700;
+$font-weight-bold: 800;
+
+body {
+    font: 100% $font-stack;
+}
